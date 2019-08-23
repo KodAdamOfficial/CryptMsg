@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639316696153",
+    "firebase_url": "https://cryptmsg-2acd6.firebaseio.com",
+    "project_id": "cryptmsg-2acd6",
+    "storage_bucket": "cryptmsg-2acd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639316696153:android:cd310f0b780c0942",
+        "android_client_info": {
+          "package_name": "com.kodadam.kacorp.cryptmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639316696153-sbspqb0dvfek2eogfg7311nrlo0gv8ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kodadam.kacorp.cryptmsg",
+            "certificate_hash": "080e1da72258df0ec0a4b72509f5074c0a9a76f6"
+          }
+        },
+        {
+          "client_id": "639316696153-5241ap2ocd2rlj0eff72lpgqlbt4oibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3aEbZ7kwuTkHk-FyyytG3NKllBR5XfeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639316696153-5241ap2ocd2rlj0eff72lpgqlbt4oibr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
